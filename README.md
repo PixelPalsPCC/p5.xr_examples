@@ -43,47 +43,47 @@ p5.xr sketches can be run with [p5's online editor.](https://editor.p5js.org/) A
 <br>Embodiment Basic
 <p align="center"><a href="https://pixelpalspcc.github.io/p5.xr_examples/embodiment/basic">
   <img width="200" height="200" src="embodiment_basic.gif"></a>
-</p>
+</p><br><br>
 
 <br>Immersive 360 Basic
 <p align="center"><a href="https://pixelpalspcc.github.io/p5.xr_examples/immersive-360/basic">
   <img width="200" height="200" src="immersive-360_basic.gif"></a>
-</p>
+</p><br><br>
 
 <br>Immersive 360 Complex
 <p align="center"><a href="https://pixelpalspcc.github.io/p5.xr_examples/immersive-360/complex">
   <img width="200" height="200" src="immersive-360_complex.gif"></a>
-</p>
+</p><br><br>
 
 <br>Physics Basic
 <p align="center"><a href="https://pixelpalspcc.github.io/p5.xr_examples/physics/basic">
   <img width="200" height="200" src="physics_basic.gif"></a>
-</p>
+</p><br><br>
 
 <br>Physics Complex
 <p align="center"><a href="https://pixelpalspcc.github.io/p5.xr_examples/physics/complex">
   <img width="200" height="200" src="physics_complex.gif"></a>
-</p>
+</p><br><br>
 
 <br>Immersive Typography Basic
 <p align="center"><a href="https://pixelpalspcc.github.io/p5.xr_examples/immersive-typography/basic">
   <img width="200" height="200" src="immersive-typography_basic.gif"></a>
-</p>
+</p><br><br>
 
 <br>Immersive Typography Complex
 <p align="center"><a href="https://pixelpalspcc.github.io/p5.xr_examples/immersive-typography/complex">
   <img width="200" height="200" src="immersive-typography_complex.gif"></a>
-</p>
+</p><br><br>
 
 <br>Visual Art-Making Tools Basic
 <p align="center"><a href="https://pixelpalspcc.github.io/p5.xr_examples/visual-art-making-tools/basic">
   <img width="200" height="200" src="visual-art-making-tools_basic.gif"></a>
-</p>
+</p><br><br>
 
 <br>Visual Art-Making Tools Complex
 <p align="center"><a href="https://pixelpalspcc.github.io/p5.xr_examples/visual-art-making-tools/complex">
   <img width="200" height="200" src="visual-art-making-tools_complex.gif"></a>
-</p>
+</p><br><br>
 
 
 
