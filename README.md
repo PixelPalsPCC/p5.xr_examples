@@ -40,6 +40,44 @@ p5.xr sketches can be run with [p5's online editor.](https://editor.p5js.org/) A
 4. Change the `createCanvas()` call in your p5 WEBGL sketch to `createVRCanvas()` and put it in `preload()` -or-
 5. [Try out one of the Examples](https://stalgiag.github.io/p5.xr/#/quick-start/examples)!
 
+<p align="center"><a href="https://pixelpalspcc.github.io/p5.xr_examples/embodiment/basic">
+  <img width="200" height="200" src="embodiment_basic.gif"></a>Embodiment Basic
+</p>
+
+<p align="center"><a href="https://pixelpalspcc.github.io/p5.xr_examples/immersive-360/basic">
+  <img width="200" height="200" src="immersive-360_basic.gif"></a>Immersive 360 Basic
+</p>
+
+<p align="center"><a href="https://pixelpalspcc.github.io/p5.xr_examples/immersive-360/complex">
+  <img width="200" height="200" src="immersive-360_complex.gif"></a>Immersive 360 Complex
+</p>
+
+<p align="center"><a href="https://pixelpalspcc.github.io/p5.xr_examples/physics/basic">
+  <img width="200" height="200" src="physics_basic.gif"></a>Physics Basic
+</p>
+
+<p align="center"><a href="https://pixelpalspcc.github.io/p5.xr_examples/physics/complex">
+  <img width="200" height="200" src="physics_complex.gif"></a>Physics Complex
+</p>
+
+<p align="center"><a href="https://pixelpalspcc.github.io/p5.xr_examples/immersive-typography/basic">
+  <img width="200" height="200" src="immersive-typography_basic.gif"></a>Immersive Typography Basic
+</p>
+
+<p align="center"><a href="https://pixelpalspcc.github.io/p5.xr_examples/immersive-typography/complex">
+  <img width="200" height="200" src="immersive-typography_complex.gif"></a>Immersive Typography Complex
+</p>
+
+<p align="center"><a href="https://pixelpalspcc.github.io/p5.xr_examples/visual-art-making-tools/basic">
+  <img width="200" height="200" src="visual-art-making-tools_basic.gif"></a>Visual Art-Making Tools Basic
+</p>
+
+<p align="center"><a href="https://pixelpalspcc.github.io/p5.xr_examples/visual-art-making-tools/complex">
+  <img width="200" height="200" src="visual-art-making-tools_complex.gif"></a>Visual Art-Making Tools Complex
+</p>
+
+
+
 
 ## Contributors ✨
 
